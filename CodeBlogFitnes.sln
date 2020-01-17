@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeBlogFitnes.BL", "CodeBlogFitnes.BL\CodeBlogFitnes.BL.csproj", "{D01D9631-E4C3-4333-AA88-31C0D08B482C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeBlogFitnes.CMD", "CodeBlogFitnes.CMD\CodeBlogFitnes.CMD.csproj", "{F73039D0-F3D2-48EF-989A-1C5EA53F3AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D01D9631-E4C3-4333-AA88-31C0D08B482C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D01D9631-E4C3-4333-AA88-31C0D08B482C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D01D9631-E4C3-4333-AA88-31C0D08B482C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D01D9631-E4C3-4333-AA88-31C0D08B482C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F73039D0-F3D2-48EF-989A-1C5EA53F3AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73039D0-F3D2-48EF-989A-1C5EA53F3AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73039D0-F3D2-48EF-989A-1C5EA53F3AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73039D0-F3D2-48EF-989A-1C5EA53F3AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F71EBE73-4E16-4177-A582-945F6C46D070}
+	EndGlobalSection
+EndGlobal
